@@ -1,4 +1,4 @@
-# Tower Wars - A Simple Tile Swapping Game Example
+# tile-swapping-game - Tile Wars!
 
 This is another old unity project of mine! Not sure exactly when this was made, but hazard to guess around 2018
 
