@@ -9,7 +9,8 @@ Connecting certain tiles will give you units, mana to cast spells, or other effe
 Feel free to give it a go or take the code for your own purposes :)
 
 ## Gameplay Example
-[Gameplay](https://github.com/user-attachments/assets/ef90f0e9-f57f-410c-b28f-10f2fbaade7b)
+
+![preview-tilewars-6fps](https://github.com/user-attachments/assets/dd530993-77ce-4d59-8319-a7b693931785)
 
 ## Links
 
