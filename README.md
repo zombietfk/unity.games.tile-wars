@@ -8,10 +8,8 @@ Connecting certain tiles will give you units, mana to cast spells, or other effe
 
 Feel free to give it a go or take the code for your own purposes :)
 
+Playable on itch [here](https://zombietfk.itch.io/tilewars)!
+
 ## Gameplay Example
 
 ![preview-tilewars-6fps](https://github.com/user-attachments/assets/dd530993-77ce-4d59-8319-a7b693931785)
-
-## Links
-
-Playable on itch [here](https://zombietfk.itch.io/tilewars)
